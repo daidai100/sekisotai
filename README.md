@@ -1,8 +1,8 @@
 # sekisotai
 Font for 3d printing without supports.
 積層体(sekisotai)
+![image](https://github.com/user-attachments/assets/7dfc1a4f-bd90-447c-ad20-258ddf7d398a)
 
-![image](https://github.com/user-attachments/assets/a4f3f2db-bac0-48c9-a6af-b4382c0ed0ce)
 
 ## Concept
 - Characters can be engraved on the sides of FEM 3D printed objects without support.

@@ -15,6 +15,6 @@ Font for 3d printing without supports.
 - We would like to eventually support vertical arrangements.
 - Design rules based on functionality.
 
-
-
-
+## Sample
+By using Fusion360 with sekisotai. Sliced by BambuStudio.
+![image](https://github.com/user-attachments/assets/b0b6715f-d4a9-4037-ac9d-6a85361aaf12)
